@@ -36,7 +36,23 @@
 
 ## Usage
 
-1. Copy the desired theme from [themes](https://github.com/catppuccin/tofi/blob/main/themes) to your tofi config file (`~/.config/tofi/config`)
+1. Copy the desired theme into your tofi config file (`~/.config/tofi/config`)
+- latte
+```sh
+curl https://raw.githubusercontent.com/catppuccin/tofi/main/catppuccin-latte >> ~/.config/tofi/config
+```
+- frappe
+```sh
+curl https://raw.githubusercontent.com/catppuccin/tofi/main/catppuccin-frappe >> ~/.config/tofi/config
+```
+- macchiato
+```sh
+curl https://raw.githubusercontent.com/catppuccin/tofi/main/catppuccin-macchiato >> ~/.config/tofi/config
+```
+- mocha
+```sh
+curl https://raw.githubusercontent.com/catppuccin/tofi/main/catppuccin-mocha >> ~/.config/tofi/config
+```
 
 ## 💝 Thanks to
 
